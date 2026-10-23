@@ -1,0 +1,17 @@
+# Dependencies and local builds
+node_modules/
+*.vsix
+*.zip
+
+# Secrets / environment
+.env
+.env.*
+!.env.example
+
+# System and editor cache
+.DS_Store
+Thumbs.db
+*.log
+
+# Git test data: never commit nested test repositories
+tests/workspace/.git/

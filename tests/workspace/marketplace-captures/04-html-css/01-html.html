@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Medusa.void — Theme Preview</title>
+    <link rel="stylesheet" href="02-css.css" />
+</head>
+<body>
+    <!-- HTML | Elements, attributes, text, and semantic markup. -->
+    <main class="workspace" aria-labelledby="page-title">
+        <header class="workspace__header">
+            <span class="eyebrow">Soft Pastel Collection</span>
+            <h1 id="page-title">Welcome to the preview</h1>
+            <p>Near-black surfaces with gentle accents.</p>
+        </header>
+
+
+        <!-- HTML 1.0.1 | Attribute values use three pastel accent groups. -->
+        <nav id="main-navigation" class="preview-navigation" aria-label="Theme navigation">
+            <a href="./gallery.html" aria-controls="theme-gallery" role="link">Explore colors</a>
+            <button type="button" data-status="ready" aria-expanded="false">Open preview</button>
+        </nav>
+
+        <section class="preview-grid" aria-label="Theme samples">
+            <article class="preview-card" data-status="active">
+                <span class="preview-card__badge">Featured</span>
+                <h2>Medusa</h2>
+                <p>Minimal colors, maximum focus.</p>
+                <button type="button" class="button">Explore theme</button>
+            </article>
+        </section>
+
+        <footer class="workspace__footer">
+            <small>Made for calm coding sessions.</small>
+        </footer>
+    </main>
+</body>
+</html>

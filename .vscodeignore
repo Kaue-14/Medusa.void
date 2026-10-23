@@ -1,0 +1,11 @@
+.vscode/**
+src/**
+scripts/**
+settings/**
+preview/**
+docs/**
+images/cat-original.png
+*.zip
+*.vsix
+# Test workspace is for development only
+tests/**

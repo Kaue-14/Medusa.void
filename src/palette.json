@@ -1,0 +1,18 @@
+{
+  "control": "#C58AF6",
+  "action": "#65D6B4",
+  "field": "#E49BC4",
+  "name": "#A0BCEB",
+  "text": "#E8E3DC",
+  "value": "#E4A566",
+  "symbol": "#B3A6C7",
+  "comment": "#9C93AD",
+  "background": "#040508",
+  "panel": "#020305",
+  "raised": "#0E1016",
+  "selection": "#181B25",
+  "border": "#292433",
+  "modified": "#C7A7F2",
+  "error": "#F0788C",
+  "warning": "#F3B54B"
+}

@@ -1,0 +1,14 @@
+{
+  "tema": "OLED Preview",
+  "versao": "teste",
+  "opcoes": {
+    "git": true,
+    "autocomplete": true,
+    "terminal": true
+  },
+  "cores": [
+    "lilas",
+    "verde-agua",
+    "caramelo"
+  ]
+}

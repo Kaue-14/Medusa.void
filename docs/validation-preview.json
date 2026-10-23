@@ -1,0 +1,10 @@
+{
+  "label": "Medusa.void",
+  "test": "Static project validation only; not installed in VS Code",
+  "interfaceColors": 471,
+  "customTextMateRules": 56,
+  "inheritedCompatibleTextMateRules": 115,
+  "semanticRules": 53,
+  "totalTextMateRules": 171,
+  "checks": "passed"
+}

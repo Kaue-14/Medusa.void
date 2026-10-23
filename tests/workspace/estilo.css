@@ -1,0 +1,9 @@
+/* CSS + variaveis + diferentes blocos */
+:root { --accento: #B09BCC; --fundo: #040508; }
+.cartao:hover {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    background-color: var(--fundo);
+    border: 1px solid var(--accento);
+    padding: 1.25rem;
+}
