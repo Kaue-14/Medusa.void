@@ -2,6 +2,15 @@
 
 All notable changes to **Medusa.void** will be documented here.
 
+## [1.0.2] - 2026-10-26
+
+### Marketplace compatibility
+
+- Fixed image URLs for the Medusa mascot, syntax screenshots, and settings preview in the Marketplace README.
+- Preserved the original Devicon designs as local PNG assets instead of unsupported external SVGs.
+- Updated packaging for Visual Studio Marketplace validation, including the license asset.
+- Kept the theme colors, syntax highlighting, original cat icon, and UI styling unchanged.
+
 ## [1.0.1] - 2026-10-16
 
 ### Release

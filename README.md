@@ -8,7 +8,7 @@ An OLED-dark Visual Studio Code theme inspired by Medusa, a calico cat.
 Near-black surfaces, warm ivory, caramel, violet accents, and carefully balanced pastel syntax.
 
 <p>
-  <a href="CHANGELOG.md" title="View release notes"><img alt="Version 1.0.1" src="https://img.shields.io/badge/Version-1.0.1-C58AF6?style=for-the-badge&amp;labelColor=291A36&amp;logo=github&amp;logoColor=white" /></a>
+  <a href="CHANGELOG.md" title="View release notes"><img alt="Version 1.0.2" src="https://img.shields.io/badge/Version-1.0.2-C58AF6?style=for-the-badge&amp;labelColor=291A36&amp;logo=github&amp;logoColor=white" /></a>
   <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img alt="VS Code dark color theme" src="https://img.shields.io/badge/VS%20Code-Dark%20Theme-A0BCEB?style=for-the-badge&amp;labelColor=1B2237&amp;logo=visualstudiocode&amp;logoColor=white" /></a>
   <a href="LICENSE" title="Read the MIT License"><img alt="MIT License" src="https://img.shields.io/badge/License-MIT-65D6B4?style=for-the-badge&amp;labelColor=15302E&amp;logo=opensourceinitiative&amp;logoColor=white" /></a>
 </p>
@@ -205,9 +205,9 @@ Real screenshots from the VS Code editor, using English examples. Each language 
 
 ## Downloads & releases
 
-**Version 1.0.1** is the current project version.
+**Version 1.0.2** is the current project version.
 
-- **[Download v1.0.1](https://github.com/Kaue-14/Medusa.void/releases/tag/v1.0.1)** — Get the installation package (`.vsix`).
+- **[Download v1.0.2](https://github.com/Kaue-14/Medusa.void/releases/latest)** — Get the installation package (`.vsix`).
 - **[All releases](https://github.com/Kaue-14/Medusa.void/releases)** — Browse available versions.
 - **[Release notes](CHANGELOG.md)** — Review changes between versions.
 

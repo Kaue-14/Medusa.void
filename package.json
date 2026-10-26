@@ -2,7 +2,7 @@
   "name": "medusa-void",
   "displayName": "Medusa.void",
   "description": "An OLED-dark VS Code theme inspired by Medusa, a calico cat. Near-black surfaces, warm ivory, caramel, violet accents, and soft pastel syntax.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "Kaue-14",
   "engines": {
     "vscode": "^1.85.0"
