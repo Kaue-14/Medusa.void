@@ -87,7 +87,7 @@ Real screenshots from the VS Code editor, using English examples. Each language 
     title="JavaScript"
     width="26px"
     style="vertical-align: middle; margin-right: 8px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+    src="images/readme/languages/javascript.png"
   />
   <strong>JavaScript</strong>
 </p>
@@ -100,7 +100,7 @@ Real screenshots from the VS Code editor, using English examples. Each language 
     title="TypeScript"
     width="26px"
     style="vertical-align: middle; margin-right: 8px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+    src="images/readme/languages/typescript.png"
   />
   <strong>TypeScript</strong>
 </p>
@@ -113,7 +113,7 @@ Real screenshots from the VS Code editor, using English examples. Each language 
     title="PHP"
     width="26px"
     style="vertical-align: middle; margin-right: 8px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
+    src="images/readme/languages/php.png"
   />
   <strong>PHP</strong>
 </p>
@@ -126,7 +126,7 @@ Real screenshots from the VS Code editor, using English examples. Each language 
     title="SQL"
     width="26px"
     style="vertical-align: middle; margin-right: 8px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+    src="images/readme/languages/mysql.png"
   />
   <strong>SQL</strong>
 </p>
@@ -139,7 +139,7 @@ Real screenshots from the VS Code editor, using English examples. Each language 
     title="Python"
     width="26px"
     style="vertical-align: middle; margin-right: 8px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+    src="images/readme/languages/python.png"
   />
   <strong>Python</strong>
 </p>
@@ -152,7 +152,7 @@ Real screenshots from the VS Code editor, using English examples. Each language 
     title="Java"
     width="26px"
     style="vertical-align: middle; margin-right: 8px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+    src="images/readme/languages/java.png"
   />
   <strong>Java</strong>
 </p>
@@ -165,7 +165,7 @@ Real screenshots from the VS Code editor, using English examples. Each language 
     title="HTML"
     width="26px"
     style="vertical-align: middle; margin-right: 8px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+    src="images/readme/languages/html.png"
   />
   <strong>HTML</strong>
 </p>
@@ -178,7 +178,7 @@ Real screenshots from the VS Code editor, using English examples. Each language 
     title="CSS"
     width="26px"
     style="vertical-align: middle; margin-right: 8px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+    src="images/readme/languages/css.png"
   />
   <strong>CSS</strong>
 </p>
